@@ -41,7 +41,7 @@ const Footer = () => {
                         <a href='/'><FaFacebook className='icon'/></a>
                         <a href='/'><FaTwitter className='icon'/></a>
                         <a href='/'><FaLinkedin className='icon'/></a>
-                        <a href='/'><FaGithub className='icon'/></a>
+                        <a href='/nikhil991gupta'><FaGithub className='icon'/></a>
                 </div>
             </div>
             

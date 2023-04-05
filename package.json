@@ -1,6 +1,6 @@
 {
- "homepage": "https://nikhil991gupta.github.io/crypto-app  ",
- "name": "defi-site",
+ "homepage": "https://nikhil991gupta.github.io/cryptosite-app  ",
+ "name": "cryptosite",
  "version": "0.1.0",
  "private": true,
  "dependencies": {

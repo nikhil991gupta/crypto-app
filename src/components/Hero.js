@@ -9,9 +9,7 @@ const Hero = () => {
         <div className='hero'>
 
             <div className='container'>
-                <div className='bg'>
-                    
-                </div>
+              
 
                 {/* Left Side */}
                 <div className='left'>

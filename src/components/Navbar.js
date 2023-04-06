@@ -1,10 +1,13 @@
 import React, {useState} from 'react'
 import {FaBars, FaTimes} from 'react-icons/fa'
 import './Navbar.css'
+import Hero from './Hero'
 
 const Navbar = () => {
 const [click, setClick] = useState(false)
+
 const handleClick = () => setClick(!click)
+
 
 
     return (

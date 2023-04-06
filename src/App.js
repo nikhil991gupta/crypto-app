@@ -8,6 +8,9 @@ import Footer from './components/Footer'
 function App() {
   return (
     <>
+    <div className='bg'>
+      <img src='' alt=''/>
+    </div>
       <Navbar />
       <Hero />
       <Featured />
